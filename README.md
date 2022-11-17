@@ -37,11 +37,11 @@ $ python
 ## Usage
 Run 
 ```console
-python train.py
+python3 train.py
 ```
 This will dump `data.pth` file. And then run
 ```console
-python chat.py
+python3 chat.py
 ```
 
 ## Customize
