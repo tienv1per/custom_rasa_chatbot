@@ -1,6 +1,11 @@
 Simple custom rasa chatbot implementation with Pytorch<br/>
 
 ## Installation
+### Clone this repo
+```console
+git clone https://github.com/tienv1per/custom_rasa_chatbot.git
+```
+
 ### Create an environment
 Whatever you prefer (e.g. `conda` or `venv`)
 ```console
