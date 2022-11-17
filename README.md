@@ -39,7 +39,7 @@ Run
 ```console
 python3 train.py
 ```
-This will dump `data.pth` file. And then run
+This will dump `model.pth` file. And then run
 ```console
 python3 chat.py
 ```
