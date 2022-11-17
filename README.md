@@ -12,7 +12,7 @@ Whatever you prefer (e.g. `conda` or `venv`)
 mkdir myproject
 $ cd myproject
 $ python3 -m venv venv
-
+```
 
 ### Activate
 
@@ -40,6 +40,14 @@ Run
 python3 train.py
 ```
 This will dump `model.pth` file. And then run
+```console
+python3 chat.py
+```
+If you want to use Tkinter app, then run
+```console
+python3 app.py
+```
+instead of
 ```console
 python3 chat.py
 ```
